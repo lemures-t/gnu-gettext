@@ -14,7 +14,6 @@ Repositories [gnu-gettext](http://git.savannah.gnu.org/gitweb/?p=gettext.git) an
 1. Download gzip file from release.
 2. Unzip gzip file
 
-
   ```bash
   $ tar -xvf <path-to-gzip-file> 
   ```
