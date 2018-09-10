@@ -20,12 +20,12 @@ Repositories [gnu-gettext](http://git.savannah.gnu.org/gitweb/?p=gettext.git) an
 
 3. Change diretory to unzipped folder and generate **make** file
 
-   ```shell
-   $ ./configure
-   ```
+  ```bash
+  $ ./configure
+  ```
 
 4. Install it
 
-   ```bash
-   $ make install
-   ```
+  ```bash
+  $ make install
+  ```
